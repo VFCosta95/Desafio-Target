@@ -1,0 +1,14 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\bin\Debug\net8.0\InverterStrings.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\bin\Debug\net8.0\InverterStrings.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\bin\Debug\net8.0\InverterStrings.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\bin\Debug\net8.0\InverterStrings.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\bin\Debug\net8.0\InverterStrings.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\obj\Debug\net8.0\InverterStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\obj\Debug\net8.0\InverterStrings.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\obj\Debug\net8.0\InverterStrings.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\obj\Debug\net8.0\InverterStrings.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\obj\Debug\net8.0\InverterStrings.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\obj\Debug\net8.0\refint\InverterStrings.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\obj\Debug\net8.0\InverterStrings.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\obj\Debug\net8.0\InverterStrings.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\InverterStrings\obj\Debug\net8.0\ref\InverterStrings.dll
